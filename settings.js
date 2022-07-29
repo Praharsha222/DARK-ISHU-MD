@@ -20,18 +20,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94786746412']
-global.premium = ['94786746412']
-global.ownernomer = '94786746412'
-global.ownername = 'Ishan Sandeepa'
+global.owner = ['94762096939']
+global.premium = ['94762096939']
+global.ownernomer = '94762096939'
+global.ownername = 'Praharsha Dewmina '
 global.botname = 'I Am 💝❄D͎A͎R͎K͎ I̟S̟H̟U̟ ❄️💝'
-global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢.'
-global.ig = 'Ishan Sandeepa'
+global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- praharsha dewmina.'
+global.ig = 'Praharsha dewmina'
 global.region = 'Sri Lanka'
-global.sc = 'https://m.facebook.com/GamingNethuwa/'
-global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix'
-global.packname = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
-global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
+global.sc = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
+global.myweb = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
+global.packname = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- Praharsha dewmina '
+global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- Praharsha dewmina '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
